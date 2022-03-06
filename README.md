@@ -1,7 +1,7 @@
 # Dodji228-getyourvisitcard.github.io
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -35,8 +35,8 @@
             <br>
             <label for="entreprise">Name of your Enterprise</label> <br>
             <input type="text" name="entreprise" id="entreprise"> <br>
-            <label for="logo">optional. add your logo</label> <br>
-            <input type="file" name="logo" id="logo"> <br>
+           <!-- <label for="logo">optional. add your logo</label> <br>
+            <input type="file" name="logo" id="logo"> <br>-->
 
             <label for="execute">Click Enter to get your visitcard</label> <br>
             <input type="button" id="execute" value="Enter">
@@ -52,7 +52,7 @@
 
             <div class="case">
                 <div class="item image">
-                    <img src="" alt="">
+                 <!--   <img src="" alt="">-->
                 </div>
                 <div class="item contact"><span id="road">Contact</span> <br>
                     <span id="poBox"></span> <br>
